@@ -1,9 +1,3 @@
-// add-money-form
-// cash-out-form
-// latest-payment 
-
-// add-money
-// cash-out 
 
 
 document.getElementById('add-moneyBtn').addEventListener('click', function(){

@@ -1,7 +1,7 @@
 
 
-// document.getElementById('add-moneyBtn').addEventListener('click', function(event){
-//     event.preventDefault();
+document.getElementById('add-moneyBtn').addEventListener('click', function(event){
+    event.preventDefault();
      
-//     console.log('mone add ')
-// })
+    console.log('mone add ')
+})
