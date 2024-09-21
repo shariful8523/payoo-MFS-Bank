@@ -6,7 +6,8 @@ document.getElementById('btn-login').addEventListener('click', function(event){
 
     const phoneNumber = document.getElementById('phone-number').value;
     const pinCode = document.getElementById('pin-code').value;
-   
+     
+    
     if(phoneNumber=== '01307376982' && pinCode === '1234'){
         console.log('You are login');
         window.location.href = './home.html';
